@@ -17,8 +17,6 @@ This repository contains R code for analyzing RNA-seq data from the TCGA-LGG pro
 
 ### Installing R Packages
 Install the necessary R packages using the following commands:
-
-```r
 install.packages("BiocManager")
 BiocManager::install(c("TCGAbiolinks", "SummarizedExperiment", "DESeq2"))
 
