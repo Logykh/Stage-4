@@ -54,5 +54,7 @@ performing a K-Means Clustering of Gene Expression Data with principal component
 
 ## Files
 DESeq2_results_TCGA_LGG.csv: CSV file containing results from the differential expression analysis.
-New_data.csv
+
+New_data.zip (this data as zip file you have to extract the file to a .csv file because the file is bigger than 25MB)
+
 labels1.csv
