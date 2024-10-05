@@ -6,6 +6,9 @@ Logy Khaled (@Logy), Alaa Hewela (@Alaa253), Tawfek Ahmed Tawfek (@Tawfekahmed25
 
 [Repository_Stage_4_task](https://github.com/Logykh/Stage-4/tree/main)
 
+[R source code](https://github.com/Logykh/Stage-4/blob/main/Code%20.R)
+
+[Python source code](https://github.com/Logykh/Stage-4/blob/main/HackBio_stage_4_ML.py)
 # **Introduction**
 
 Gliomas are brain tumors with significant heterogeneity, where mutations in the IDH (Isocitrate Dehydrogenase) gene serve as key biomarkers for prognosis and treatment. IDH mutant and wildtype statuses classify gliomas and predict patient outcomes. The study of gene expression data enhances the understanding of molecular differences.
