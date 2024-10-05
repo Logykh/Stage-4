@@ -16,7 +16,11 @@ We used gene expression data from the TCGA-LGG cohort, downloaded via TCGABiolin
 
 # **Results**
 
-Differential expression analysis was conducted using DESeq2 to identify differentially expressed genes between IDH wildtype and mutant gliomas based on an adjusted p-value \< 0.05 and |log2FoldChange| \> 1\. The MA plot visualizes the log fold change versus mean normalized counts. Significant outliers indicate potential biomarkers.
+Differential expression analysis was conducted using DESeq2 to identify differentially expressed genes between IDH wildtype and mutant gliomas based on an adjusted p-value \< 0.05 and |log2FoldChange| \> 1\. 
+
+The MA plot visualizes the log fold change versus mean normalized counts. Significant outliers indicate potential biomarkers.
+
+![IMG-20241004-WA0030](https://github.com/user-attachments/assets/de7240a3-3a24-455d-9364-32807203641b)
 
 # **Comparison with Target Paper**
 
